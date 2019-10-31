@@ -1,4 +1,4 @@
-package com.jeffchao98.camaraxkotlin
+package com.jeffchao98.cameraxkotlin
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
