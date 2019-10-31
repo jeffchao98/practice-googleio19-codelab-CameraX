@@ -1,4 +1,4 @@
-package com.jeffchao98.camaraxkotlin
+package com.jeffchao98.cameraxkotlin
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

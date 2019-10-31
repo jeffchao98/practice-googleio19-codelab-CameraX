@@ -1,4 +1,4 @@
-package com.jeffchao98.camaraxkotlin
+package com.jeffchao98.cameraxkotlin
 
 import org.junit.Test
 
